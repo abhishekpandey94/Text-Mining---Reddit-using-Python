@@ -1,0 +1,8 @@
+Reddit is one of the most popular social media channels in the world with a niche user base and is a quality data source for real-time social insights. The ever-growing active bloggers and the fact that this is a particularly new offering which has not been tapped by any major competitor makes Reddit an exciting offering for the purpose of social insights. In this blog post, we will take you through a detailed process of how to set up a Reddit API to get real-time social insights almost instantly. Python has an inbuilt library PRAW (Python Reddit API Wrapper) which is used to authenticate and mine data from Reddit.
+
+Benefits (Why should you use this):
+
+1. Relatively new offering for clients who are bored of seeing the same twitter insights.
+2. Niche audience and better quality of social data for certain verticals like finance and auto.
+3. Reduces time required for social Insights.
+4. Useful to capture discussions on new TV series, the launch of new games/ phones, the release of new movies.
