@@ -1,0 +1,13 @@
+If you have worked on setting up an API connection in the past, this should be fairly straightforward. Else read through this section. 
+
+In order to extract any data from Reddit, the first step is to create an app where you provide authentication details to mine Reddit
+data on your local systems. It uses the OAuth verification methodology, hence it is easier to implement and call from the local machine.
+
+1. After landing on the Reddit Homepage, find the prefernce tab (in the older version it is on the top right corner besides the user info).
+2. Now select the apps tab to create a new app.
+3. Provide a unique name for your app. 
+4. Select the Scipts if it's a bespoke request. Otherwise if you are looking to deploy it on top of an app or a Web aplication, select your
+   option appropriately. I'll be covering the script version here only.
+5. You can leave the about url and the rediret uri fields blank or use the address for local hosts here: http://localhost:8080.
+6. Upon creation of the app you need to copy the client id and the secret key that is assigned to the app. These will be used in python to
+ authenticate and establish connection  with Reddit.
