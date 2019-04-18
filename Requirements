@@ -1,6 +1,8 @@
 Requirements:
 
-1. One would need to setup a Reddit account (if don’t have it already). It is a two-step simple registration process like any other sign up process.
+1. One would need to setup a Reddit account (if don’t have it already). It is a two-step simple registration process like any other 
+sign up process.
 2. Anaconda 3.4 distribution for windows 64-bit version- link: https://anaconda.org/anaconda/python
-3. IDE of choice (Spyder or Jupiter or Ipython)- After you install anaconda, you can select either of these from the anaconda navigator, no need to separately install these
+3. IDE of choice (Spyder or Jupiter or Ipython)- After you install anaconda, you can select either of these from the anaconda navigator,
+no need to separately install these
 4. Python 3.4 or any subsequent version (essential)
